@@ -1,0 +1,6 @@
+# Runtime uses only the Python standard library.
+# Optional development tools for linting and coverage:
+coverage>=7.0
+flake8>=7.0
+black>=24.0
+mypy>=1.8
